@@ -1,6 +1,4 @@
 //equation
-alert('test');
-
 
 var a = prompt('Podaj wartość a:'),
     b = prompt('Podaj wartość b:'),
